@@ -1,6 +1,6 @@
 <template>
     <div class="pt-3">
-        <h1 class="title">Hi! My name is !</h1>
+        <h1 class="title">Hi! My name is {{ userData.alias }} !</h1>
     </div>
 </template>
 
